@@ -18,9 +18,15 @@ public class Simulation {
         draw();
     }
 
-    private void draw() {
+    public void draw() {
         for (Person person : people) {
             person.draw();
+        }
+    }
+
+    public void move() {
+        for (Person person : people) {
+            person.move();
         }
     }
 }
