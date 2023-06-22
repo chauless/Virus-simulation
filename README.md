@@ -1,6 +1,7 @@
 # **Virus Spreading Simulator**
+Semestral project for PJV (Programming in JAVA, CVUT FEL)
 
-![Screenshot_16](https://github.com/chauless/Virus-simulation/assets/93679962/81e9f6e5-5212-444d-88b8-7dc71384df5e)
+![Screenshot_16](https://github.com/chauless/Virus-simulation/assets/93679962/19ba18e4-ae47-4b47-a23c-8933ca22694e)
 
 The Virus Spreading Simulator is an innovative project that uses Java to simulate the spread of a virus within a group of people. Looking at how the pandemic was going, understanding how viruses spread has never been more critical, and my simulator is an indispensable tool for educating people on the impact of viruses and how to prevent their spread.
 
