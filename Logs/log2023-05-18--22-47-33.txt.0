@@ -1,0 +1,22 @@
+мая 18, 2023 10:47:33 PM cvut.fel.cz.pjv.controller.SimController$5 changed
+INFO: Logging to file enabled
+мая 18, 2023 10:47:34 PM cvut.fel.cz.pjv.controller.SimController start
+INFO: Simulation started with population: 151
+мая 18, 2023 10:47:37 PM cvut.fel.cz.pjv.controller.SimController stop
+INFO: Simulation stopped
+мая 18, 2023 10:47:37 PM cvut.fel.cz.pjv.model.Simulation saveConfig
+INFO: Config saved to config2.json, 151 people saved
+мая 18, 2023 10:47:38 PM cvut.fel.cz.pjv.model.Simulation loadConfig
+INFO: Config loaded from config2.json, 151 people loaded
+мая 18, 2023 10:47:39 PM cvut.fel.cz.pjv.model.Simulation <init>
+INFO: People added to simulation pane
+мая 18, 2023 10:47:39 PM cvut.fel.cz.pjv.controller.SimController setMovingSpeed
+INFO: Moving speed changed to 3
+мая 18, 2023 10:47:39 PM cvut.fel.cz.pjv.controller.SimController setPopulationSize
+INFO: Population size changed to 150
+мая 18, 2023 10:47:39 PM cvut.fel.cz.pjv.controller.SimController generate
+INFO: Simulation generated, time: 2023-05-18 22:47:39
+мая 18, 2023 10:47:39 PM cvut.fel.cz.pjv.controller.SimController start
+INFO: Simulation started with population: 151
+мая 18, 2023 10:47:40 PM cvut.fel.cz.pjv.controller.SimController stop
+INFO: Simulation stopped

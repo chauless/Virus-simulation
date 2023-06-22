@@ -1,36 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
 <?import javafx.geometry.Insets?>
-<?import javafx.scene.control.Button?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.control.Separator?>
-<?import javafx.scene.layout.BorderPane?>
-<?import javafx.scene.layout.HBox?>
-<?import javafx.scene.layout.Pane?>
 
-<BorderPane fx:id="borderPaneWorld" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cvut.fel.cz.pjv.controller.SimController">
-   <bottom>
-      <HBox alignment="CENTER" BorderPane.alignment="CENTER">
-         <children>
-            <Button fx:id="buttonGenerate" mnemonicParsing="false" onAction="#generate" text="Generate field" />
-            <Separator orientation="VERTICAL" prefHeight="0.0" prefWidth="30.0" />
-            <Button fx:id="buttonStart" mnemonicParsing="false" onAction="#start" text="Start" />
-            <Separator orientation="VERTICAL" prefHeight="0.0" prefWidth="0.0" visible="false" />
-            <Button fx:id="buttonStop" mnemonicParsing="false" onAction="#stop" text="Stop" />
-         </children>
-      </HBox>
-   </bottom>
-   <top>
-      <Label fx:id="labelTitle" text="Virus Sim" BorderPane.alignment="CENTER" />
-   </top>
-   <center>
-      <Pane fx:id="paneVirusSimulation" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
-         <BorderPane.margin>
-            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-         </BorderPane.margin>
-      </Pane>
-   </center>
-   <padding>
-      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-   </padding>
+<BorderPane xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1"
+            fx:id="borderPaneWorld"
+            fx:controller="cvut.fel.cz.pjv.controller.SimController">
+
+    <!-- Top bar with simulation name -->
+    <top>
+        <Label fx:id="labelTitle"
+               text="Virus Sim"
+               BorderPane.alignment="CENTER"/>
+    </top>
+
+    <!-- Central pane with simulation -->
+    <center>
+        <Pane fx:id="paneVirusSimulation" BorderPane.alignment="CENTER" >
+            <BorderPane.margin>
+                <Insets top="15" right="15" bottom="15" left="15"/>
+            </BorderPane.margin>
+        </Pane>
+    </center>
+
+    <!-- Left bar with simulation settings -->
+    <left>
+        <VBox prefHeight="300" prefWidth="130">
+            <Label text="Statistics:" style="-fx-font-weight: bold;"/>
+
+            <Label fx:id="labelPopulation" />
+            <Label fx:id="labelPopulationHealthy" />
+            <Label fx:id="labelPopulationSick" />
+            <Label fx:id="labelPopulationRecovered" />
+            <Label fx:id="labelPopulationDead" />
+
+<!--            <CheckBox fx:id="checkBoxShowTimeline" text="Show timeline" selected="false"/>-->
+
+            <Separator prefHeight="10" visible="false"/>
+
+            <Label text="Simulation settings:" style="-fx-font-weight: bold;"/>
+
+            <Label text="Population size:"/>
+            <Slider fx:id="sliderPopulationSize" max="200" min="50" showTickMarks="true" showTickLabels="true" value="150" />
+
+            <Label text="Recovery speed:"/>
+            <Slider fx:id="sliderRecoverySpeed" max="10" min="2" showTickMarks="true" showTickLabels="true" value="5" majorTickUnit="2" />
+
+            <Label text="Moving speed:"/>
+            <Slider fx:id="sliderMovingSpeed" max="5" min="1" showTickMarks="true" showTickLabels="true" value="3" majorTickUnit="0.5" />
+
+            <CheckBox fx:id="checkBoxLogging" text="Logging" selected="true" />
+            <CheckBox fx:id="checkBoxLoggingToFile" text="Logging to file" selected="false" />
+        </VBox>
+    </left>
+
+<!--    <right>-->
+<!--        <VBox prefHeight="300" prefWidth="200">-->
+<!--            <children>-->
+<!--                <Pane fx:id="paneIllnessTimeline" prefWidth="200" prefHeight="200"></Pane>-->
+<!--            </children>-->
+<!--        </VBox>-->
+<!--    </right>-->
+
+    <!-- Bottom bar with control buttons -->
+    <bottom>
+        <HBox alignment="CENTER" BorderPane.alignment="CENTER">
+            <Button fx:id="buttonGenerate"
+                    text="Generate field"
+                    onAction="#generate"/>
+            <Separator prefWidth="30" orientation="VERTICAL"/>
+            <Button fx:id="buttonStart"
+                    text="Start"
+                    onAction="#start"/>
+            <Separator visible="false"/>
+            <Button fx:id="buttonStop"
+                    text="Stop"
+                    onAction="#stop"/>
+            <Separator prefWidth="30" orientation="VERTICAL"/>
+            <Button fx:id="buttonSaveConfig"
+                    text="Save config"
+                    onAction="#saveConfig"/>
+            <Separator visible="false"/>
+            <Button fx:id="buttonLoadConfig"
+                    text="Load config"
+                    onAction="#loadConfig"/>
+        </HBox>
+    </bottom>
+
+    <!-- Padding between panes -->
+    <padding>
+        <Insets top="5" right="5" bottom="5" left="5"/>
+    </padding>
+
 </BorderPane>

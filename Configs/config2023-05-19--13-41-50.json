@@ -1,0 +1,1210 @@
+[
+  {
+    "x": 461.22527748404246,
+    "y": 104.35444706849015,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 583.158741738807,
+    "y": 24.274451333580743,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 102.45170943893159,
+    "y": 192.39186697176848,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 598.9983494003196,
+    "y": 168.4294983722046,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 578.9254275165318,
+    "y": 232.41359364106208,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 528.3887396963289,
+    "y": 254.5041317166222,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 542.6131994250937,
+    "y": 92.1472721392101,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 392.8457064523537,
+    "y": 6.638621610003931,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 421.1956439452467,
+    "y": 453.71032076730035,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 374.6544750230072,
+    "y": 376.01091284397575,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 564.0919163465634,
+    "y": 163.32397166590303,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 346.80276550123665,
+    "y": 23.82640104156421,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 87.85756138865305,
+    "y": 358.78150407875603,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 226.94979807020394,
+    "y": 240.08173661489005,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 464.03677341493994,
+    "y": 39.69837109612878,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 259.36068355776416,
+    "y": 113.36798138401251,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 559.2332210885024,
+    "y": 417.7818730419369,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 570.2824839804059,
+    "y": 62.4766235500866,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 202.55715996138412,
+    "y": 37.27013083043289,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 514.2123132651999,
+    "y": 226.52375769120866,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 210.2704984308859,
+    "y": 454.3639581781747,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 11.316652219133786,
+    "y": 82.17170294187429,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 519.0743742076457,
+    "y": 83.2427646337337,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 30.664571986790744,
+    "y": 315.9636589941313,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 360.26180626770883,
+    "y": 319.62256089843675,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 489.31158182716285,
+    "y": 256.841895108331,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 64.18477839825738,
+    "y": 182.15112962327007,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 415.3233268945133,
+    "y": 253.50970485962915,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 415.1222073344734,
+    "y": 60.75865625760974,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 106.66996396091322,
+    "y": 269.33381022535974,
+    "state": "SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 28.32530914002571,
+    "y": 276.5996386210316,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 353.64824825634673,
+    "y": 148.5222759568717,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 479.63918061782607,
+    "y": 410.9578925048247,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 32.928883919275115,
+    "y": 141.77506593380917,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 539.0227296744133,
+    "y": 353.5231212844011,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 277.06417092658916,
+    "y": 34.2164031912929,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 334.51761085976824,
+    "y": 232.9637049568137,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 430.58930479939494,
+    "y": 3.55146439292126,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 281.6786476162686,
+    "y": 114.89995974242385,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 571.0236249322317,
+    "y": 452.8851803909413,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 148.45993298038852,
+    "y": 87.70298655042069,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 413.61259950145,
+    "y": 423.99713864624306,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 114.75150937748741,
+    "y": 173.33792004178463,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 284.63124189577155,
+    "y": 439.56564118425644,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 378.4645272301015,
+    "y": 101.90633363296189,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 368.2974771282738,
+    "y": 246.27152798969894,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 443.79517158374523,
+    "y": 17.825845991612937,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 498.7120525729093,
+    "y": 459.30540419784865,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 370.2554296891649,
+    "y": 262.4490279812172,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 145.25952562476942,
+    "y": 169.46783349453068,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 228.55970351756426,
+    "y": 386.0074460621164,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 348.0750638206366,
+    "y": 129.60760359052836,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 577.2074367543389,
+    "y": 167.7681716651361,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 479.8508358502289,
+    "y": 56.16139576153207,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 565.4951645131792,
+    "y": 271.67268025254265,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 184.74363364439085,
+    "y": 104.81557378576716,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 534.06810867684,
+    "y": 370.71225575379054,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 350.72125836444263,
+    "y": 281.44798034648574,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 373.1219020545302,
+    "y": 17.358651224147394,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 117.06486136695193,
+    "y": 179.22758341227768,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 516.2597720874248,
+    "y": 447.155895736793,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 342.1373724674297,
+    "y": 280.63514071916194,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 459.54996429515467,
+    "y": 316.55220411744284,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 384.3620772142131,
+    "y": 138.82140718745183,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 320.61755480098594,
+    "y": 365.84170734546797,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 126.117112146988,
+    "y": 154.91008622694193,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 375.6149052277579,
+    "y": 458.19163711009946,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 76.6129607223275,
+    "y": 101.26301088325864,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 571.972320906623,
+    "y": 182.92997995760106,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 506.91035823418525,
+    "y": 286.9037705288925,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 147.2514037959466,
+    "y": 222.08689896343924,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 553.8807100474119,
+    "y": 404.2638637662677,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 89.4441182823629,
+    "y": 345.23841063415534,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 335.0808588382234,
+    "y": 403.17133828345453,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 237.13473279216822,
+    "y": 143.38642715050543,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 518.5597216905428,
+    "y": 448.19433887805485,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 281.49161437524805,
+    "y": 94.33062381072308,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 83.30362499125533,
+    "y": 8.483073443184496,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 384.69182927007506,
+    "y": 153.4131366487083,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 343.5583808629671,
+    "y": 252.21584397182167,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 347.1937629266132,
+    "y": 197.51896828145368,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 392.7009284524322,
+    "y": 221.33426183179134,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 407.81726703032086,
+    "y": 399.497295147776,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 521.171264060313,
+    "y": 55.302569710485784,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 484.5491204081708,
+    "y": 115.67456682945799,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 457.35478513580784,
+    "y": 337.9006279207614,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 575.8702841018368,
+    "y": 107.71362405023996,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 146.2063692817162,
+    "y": 25.235071602474658,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 340.62126816801543,
+    "y": 434.5289906168222,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 191.46884482034287,
+    "y": 287.467444879314,
+    "state": "SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 279.7459283364449,
+    "y": 159.0871413590798,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 97.43593640837243,
+    "y": 429.1341641310158,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 430.23801897311205,
+    "y": 190.9415053927556,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 57.89935474632273,
+    "y": 58.0165394885033,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 131.45604744981307,
+    "y": 425.8765448972121,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 560.6183030145772,
+    "y": 252.5676149046652,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 399.1924838231273,
+    "y": 188.18351946400938,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 359.00946893484013,
+    "y": 158.85344006669357,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 516.8651010458966,
+    "y": 70.07087889738891,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 603.5118454144717,
+    "y": 280.04963335325414,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 485.5146846488701,
+    "y": 32.77446456001633,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 362.72484469053745,
+    "y": 83.11781506749779,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 440.00948940944994,
+    "y": 291.11035228929376,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 542.1703516645413,
+    "y": 426.09822893975985,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 444.1204593889429,
+    "y": 112.5073783805056,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 476.2333433547433,
+    "y": 444.1570976461446,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 221.0458406135962,
+    "y": 187.01007368311187,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 347.87700342008884,
+    "y": 301.1844000949063,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 588.699110965225,
+    "y": 152.3522580246968,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 163.39309159155312,
+    "y": 464.99925054694125,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 349.46531429213707,
+    "y": 195.94383819808132,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 539.2600219223223,
+    "y": 146.63023962600255,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 230.32100748927994,
+    "y": 254.07425583557017,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 150.6024264487272,
+    "y": 248.2346444863012,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 170.9269998782532,
+    "y": 280.44201327022733,
+    "state": "SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 528.1210180588993,
+    "y": 412.33258584244953,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 499.0909454462356,
+    "y": 30.294995227969807,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 559.9794702598483,
+    "y": 235.27571665037613,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 466.77414239033106,
+    "y": 238.95635391858247,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 8.45229323537216,
+    "y": 5.304533788041773,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 438.48060988346276,
+    "y": 462.4636524632703,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 533.7292616349994,
+    "y": 148.17074099637014,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 515.0164921100893,
+    "y": 467.28104069036016,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 200.39793236646088,
+    "y": 74.65674053816682,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 590.9742471617017,
+    "y": 155.53605886783308,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 202.00094750753883,
+    "y": 37.2512732848993,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 330.54373403018064,
+    "y": 45.477369504308975,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 477.97411893487936,
+    "y": 226.599892076506,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 575.4843026956662,
+    "y": 428.61499450855365,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 345.17934299387406,
+    "y": 93.31184138996964,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 134.35049677476528,
+    "y": 39.967367124691776,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 467.03433766360826,
+    "y": 338.68273031777557,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 345.76197600024165,
+    "y": 413.74492371494415,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 523.0518114663613,
+    "y": 38.02573381230664,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 550.6935815548486,
+    "y": 427.1103635322603,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 390.5275817194983,
+    "y": 454.45897062435796,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 551.2386123305349,
+    "y": 468.16487694740806,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 588.9906928596887,
+    "y": 444.53096029267107,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 173.75978496809117,
+    "y": 63.68436374937806,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 541.0340644782092,
+    "y": 157.34729505783505,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 43.244220319125446,
+    "y": 141.34685276926538,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 183.52793020097423,
+    "y": 371.32736339712824,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 34.58996063307846,
+    "y": 261.21128922086405,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 521.2427709097318,
+    "y": 338.9234565287413,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 131.79498192968867,
+    "y": 22.916869108424976,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 123.63829059382145,
+    "y": 268.42186633678534,
+    "state": "SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 220.53035685589379,
+    "y": 11.145434139337759,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 232.7337758306286,
+    "y": 450.67168262160413,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 415.88061306197636,
+    "y": 376.3425582485862,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 292.1826441425518,
+    "y": 189.6585209993748,
+    "state": "NOT_SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  },
+  {
+    "x": 257.5215917376599,
+    "y": 325.3522280294096,
+    "state": "SICK",
+    "populationSize": 150.0,
+    "recoverySpeed": 3.0,
+    "movingSpeed": 5.0
+  }
+]
